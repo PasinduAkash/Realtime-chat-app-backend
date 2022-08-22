@@ -1,4 +1,4 @@
-# Realtime WhatsApp Clone -backend
+# Realtime WhatsApp Clone - Backend
 This is the backend of the whatsapp clone.
 
 ### Features
